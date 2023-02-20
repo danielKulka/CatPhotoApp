@@ -1,1 +1,1 @@
- Projeto Responsive Web Design de freecodecamp, recriando o CatPhotoApp em html e estruturando com css 
+ Projeto Responsive Web Design de freecodecamp, recriando o CatPhotoApp em html
